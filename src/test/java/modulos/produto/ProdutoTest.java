@@ -9,8 +9,7 @@ import paginas.LoginPage;
 import java.time.Duration;
 
 @DisplayName("Teste Web do modulo de produtos")
-public class ProdutoTest {
-
+public class ProdutoTest{
     private WebDriver navegador;
 
     @BeforeEach
